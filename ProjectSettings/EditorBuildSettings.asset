@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 3f35dd89f70ce4dd989d38717bfd26b8
+  - enabled: 1
+    path: Assets/Scenes/Arv First Meeting.unity
+    guid: 4ef261df0e1dc48a1a56f915107801f0
+  - enabled: 1
+    path: Assets/Scenes/Brick Level 1.unity
+    guid: ab52f510b91364bac80de0c8ab2ddb8f
+  - enabled: 1
+    path: Assets/Scenes/Brick Level 2.unity
+    guid: 69fa7250d91e9404086bf55334076179
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 4f4e7b3156ae44ae2bf878d9e57a2126
+  - enabled: 1
+    path: Assets/Scenes/Good Ending.unity
+    guid: c51adcdf5428b46c5803f2b4e6f7b10c
+  m_configObjects: {}

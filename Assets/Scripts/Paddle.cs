@@ -24,4 +24,8 @@ public class Paddle : MonoBehaviour {
         
         transform.position = paddlePos;
 	}
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        GetComponent<AudioSource>().Play();
+    }
 }
